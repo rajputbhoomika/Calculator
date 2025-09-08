@@ -14,4 +14,4 @@
 4. Toggle theme using checkbox.
 
 ## Author
-Bhoomika – Intern at Siemens STSPL Bengaluru
+Bhoomika Rajput
